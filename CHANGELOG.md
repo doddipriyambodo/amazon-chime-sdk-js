@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Display meeting id in the demo app
+
 ### Changed
 - Prevent prebuild from increase patch number when publishing to NPM
 
