@@ -13092,4 +13092,7 @@ var typedoc = typedoc || {};
 "parent":"VideoAdaptiveSubscribePolicy"},
 {"id":3344,"kind":2,"name":"GettingStarted",
 "url":"modules/gettingstarted.html",
+"classes":"tsd-kind-module tsd-is-not-exported"},
+{"id":3345,"kind":2,"name":"ContentShare",
+"url":"modules/contentshare.html",
 "classes":"tsd-kind-module tsd-is-not-exported"}]};
