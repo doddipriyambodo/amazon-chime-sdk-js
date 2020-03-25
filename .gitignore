@@ -9,6 +9,9 @@ demos/browser/logs/
 demos/browser/package-lock.json
 demos/components/node_modules
 demos/components/package-lock.json
+demos/react/node_modules
+demos/react/package-lock.json
+demos/react/lib
 dist
 doc
 integration-test-results/
